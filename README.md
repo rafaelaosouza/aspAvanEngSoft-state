@@ -6,6 +6,8 @@ Implementação do padrão de projeto **State**, aplicada ao ciclo de vida de um
 
 ## Máquina de estados
 
+![Diagrama Estados](docs/diagrama-estados.png)
+
 Versão editável em Mermaid: [docs/diagrama-estados.md](docs/diagrama-uml.md).
 
 ## Diagrama UML
